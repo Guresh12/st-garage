@@ -9,9 +9,9 @@ export default function Hero() {
     <section id="home" className="relative h-screen flex items-center justify-center">
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: 'url(/st.jpg)' }}
+        style={{ backgroundImage: 'url(/st copy.jpeg)' }}
       >
-        <div className="absolute inset-0 bg-black/70"></div>
+        <div className="absolute inset-0 bg-black/40"></div>
       </div>
 
       <div className="relative z-10 container mx-auto px-4 text-center">
