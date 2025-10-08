@@ -9,7 +9,7 @@ export default function Hero() {
     <section id="home" className="relative h-screen flex items-center justify-center">
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: 'url(/hero.jpg)' }}
+        style={{ backgroundImage: 'url(/st.jpg)' }}
       >
         <div className="absolute inset-0 bg-black/70"></div>
       </div>
