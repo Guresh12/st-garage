@@ -1,0 +1,19 @@
+ST GEORGE'S AUTO FIT LIMITED - Required Images for /public folder
+========================================================================
+
+Please add the following images to your /public folder for the website to display properly:
+
+ROOT FOLDER (/public):
+- logo.png → Company logo
+- hero.jpg → Hero background image (car wash or auto service photo)
+- about.jpg → Image of staff or garage interior
+
+SERVICES FOLDER (/public/services/):
+- wash.jpg → Executive car wash service
+- repair.jpg → Mechanical repairs
+- diagnostic.jpg → Diagnostic services
+- towing.jpg → Vehicle towing service
+- alignment.jpg → Wheel alignment service
+- detailing.jpg → Interior detailing service
+
+Note: The website will work without these images, but placeholders will show until you add your actual photos.
