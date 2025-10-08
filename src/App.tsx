@@ -18,7 +18,7 @@ function App() {
         <nav className="container mx-auto px-4 lg:px-8">
           <div className="flex items-center justify-between h-20">
             <div className="flex items-center space-x-3">
-              <img src="/logo.png" alt="ST George's Auto Fit" className="h-12 w-auto" />
+              <img src="/st logo.png" alt="ST George's Auto Fit" className="h-12 w-auto" />
               <div className="hidden md:block">
                 <h1 className="text-white font-bold text-lg leading-tight">ST GEORGE'S AUTO FIT</h1>
                 <p className="text-[#d4af37] text-xs">Performance ✓ Precision ✓ Perfection</p>
