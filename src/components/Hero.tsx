@@ -6,13 +6,13 @@ export default function Hero() {
   };
 
   return (
-    <section id="home" className="relative h-screen flex items-center justify-center">
-      <div
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: 'url(/st copy.jpeg)' }}
-      >
-        <div className="absolute inset-0 bg-black/40"></div>
-      </div>
+    <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
+      <img
+        src="/st copy.jpeg"
+        alt="ST George's Auto Fit Garage"
+        className="absolute inset-0 w-full h-full object-cover"
+      />
+      <div className="absolute inset-0 bg-black/40"></div>
 
       <div className="relative z-10 container mx-auto px-4 text-center">
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
